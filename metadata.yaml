@@ -1,5 +1,5 @@
 homepage: "https://www.unifydigitalfactory.fr/"
 documentation: "https://www.unifydigitalfactory.fr/contactez-nous/"
 versions:
-  - sha: 16fd171d27cb32b39a8c086434bfac25ee3a4873
+  - sha: 4b1de73ae2f50e2c43c22a8446b011bf879113e6
     changeNotes: v1
